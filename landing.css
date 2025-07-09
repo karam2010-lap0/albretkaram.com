@@ -1,0 +1,31 @@
+img{
+    border: 5px solid lightblue;
+    display: block;
+    margin: 0 auto;
+}
+div > h3{
+    color: rgb(83, 11, 167);
+    text-align: center;
+    font-family: 'butterfly kids', cursive;
+}
+body{
+    background-image: url(italian-slab-marble-background-with-high-gloss-aqua-color-marble-texture-high-resolution-granite-surface-design-used-ceramic-wall-tiles-floor-tiles_410516-1128.avif);
+}
+
+pre > img{
+    width: 110px;
+    border-radius: 50%;
+    border: 5px soild darkred;
+    float: left;
+    display: flex;
+}
+p{
+    font-style: oblique;
+    font-size: 33px;
+    text-align: justify;
+}
+h4{
+    color: rgba(5, 149, 245, 0.74);
+    font-style: unset;
+    font-size: 100px;
+}
